@@ -79,29 +79,7 @@ AI Engineer | Java Developer | MERN Stack Developer | LLM & RAG Enthusiast | AWS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=5"/>
-
-</div>
-
-
-<br/>
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Computer%20Vision-0066FF?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Natural%20Language%20Processing-00A86B?style=for-the-badge&logo=probot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Large%20Language%20Models-FF1493?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/RAG%20Systems-8B4513?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-DC143C?style=for-the-badge&logo=googlebard&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,flask,fastapi&perline=7"/>
 
 </div>
 
@@ -147,26 +125,9 @@ AI Engineer | Java Developer | MERN Stack Developer | LLM & RAG Enthusiast | AWS
 
 ## ☁ Cloud & Tools
 
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&perline=6"/>
-
-</div>
-
-
-<br>
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
-
-<img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker"/>
-
-<img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/Linux-Operating%20System-black?style=for-the-badge&logo=linux"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman,bash,npm,maven&perline=5"/>
 
 </div>
 
