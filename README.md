@@ -1,18 +1,24 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== HERO HEADER ===================== -->
 
-<h1 align="center">Hi 👋, I'm Urvi Gupta</h1>
+<div align="center">
 
-<h3 align="center">
-B.Tech CSE (AI & ML) Student | AI Engineer | LLM & RAG Enthusiast | Cloud Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Urvi%20Gupta&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+
+<br/>
+
+<h3>
+AI Engineer | Java Developer | MERN Stack Developer | LLM & RAG Enthusiast | AWS Cloud Developer
 </h3>
 
+<br/>
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=950&lines=Artificial+Intelligence+Enthusiast;Building+LLM+%26+RAG+Applications;Full+Stack+AI+Developer;Java+%26+MERN+Stack+Developer;AWS+Cloud+Developer;Hackathon+Builder;Always+Learning+New+Technologies+🚀"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Enthusiast;Building+LLM+%26+RAG+Applications;Cloud+Computing+Explorer;Full+Stack+AI+Developer;Hackathon+Builder;Always+Learning+New+Technologies+🚀" />
+<br/><br/>
 
-</p>
 
+
+</div>
 
 ---
 
@@ -47,114 +53,154 @@ B.Tech CSE (AI & ML) Student | AI Engineer | LLM & RAG Enthusiast | Cloud Develo
 
 ---
 
+<!-- ===================== TECH STACK ===================== -->
 
 # 🚀 Tech Stack
 
 
-## Programming Languages
+## 👨‍💻 Programming Languages
 
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,mysql&perline=7"/>
 
-</p>
+</div>
+
+
+<br/>
+
+
+---
+
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=5"/>
+
+</div>
+
+
+<br/>
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-0066FF?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Natural%20Language%20Processing-00A86B?style=for-the-badge&logo=probot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Large%20Language%20Models-FF1493?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RAG%20Systems-8B4513?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-DC143C?style=for-the-badge&logo=googlebard&logoColor=white"/>
+
+</div>
+
+
+
 
 
 
 ---
 
 
-## Artificial Intelligence & Machine Learning
+## ⚡ Frameworks & Libraries
 
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,spring,react&perline=5"/>
 
-</p>
+</div>
 
 
-`Machine Learning`  
-`Deep Learning`  
-`Computer Vision`  
-`Natural Language Processing`  
-`Large Language Models`  
-`RAG Systems`  
-`Prompt Engineering`
-
+<br>
 
 
 ---
 
 
-## Frameworks & Libraries
+## 🗄 Databases
 
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,spring,react"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=5"/>
 
-</p>
-
-
----
-
-## Databases
+</div>
 
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-</p>
+<br>
 
 
 ---
 
 
-## Cloud & Tools
+## ☁ Cloud & Tools
 
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&perline=6"/>
 
-</p>
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker"/>
+
+<img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git"/>
+
+<img src="https://img.shields.io/badge/Linux-Operating%20System-black?style=for-the-badge&logo=linux"/>
+
+</div>
 
 
 ---
 
+<!-- ===================== CERTIFICATIONS ===================== -->
 
 # 🏅 Certifications
 
-
-✅ AI For Everyone – Andrew Ng (Coursera)
-
-
-✅ LLMs, RAG & Prompt Engineering – IBM SkillsBuild
-
-
-✅ Journey to Cloud – IBM SkillsBuild
-
-
-✅ IoT and Embedded Systems – Udemy
-
-
-✅ English Language Certification (CEFR Level 10) – Pearson MePro
-
-
+- ✅ **AI For Everyone** — Andrew Ng *(Coursera)*
+- ✅ **LLMs, RAG & Prompt Engineering** — IBM SkillsBuild
+- ✅ **Journey to Cloud** — IBM SkillsBuild
+- ✅ **IoT and Embedded Systems** — Udemy
+- ✅ **English Language Certification (CEFR Level 10)** — Pearson MePro
 
 ---
 
+
+<!-- ===================== EXPERIENCE ===================== -->
 
 # 💼 Experience
 
 
-## 🤖 AI Trainee — CDAC Noida
+## 🤖 AI Intern
 
 
-Worked on:
+
+<img src="https://img.shields.io/badge/CDAC%20Noida-blueviolet?style=for-the-badge"/>
+
+</div>
+
+
+### Worked on:
 
 - Retrieval-Augmented Generation (RAG)
 - Large Language Models
@@ -162,7 +208,7 @@ Worked on:
 - Medical AI Applications
 
 
-Key Contributions:
+### Key Contributions:
 
 - Developed a RAG-based chatbot for defense medicine applications.
 - Applied AI and NLP techniques on large-scale medical datasets.
@@ -174,10 +220,14 @@ Key Contributions:
 
 ## ☁ Artificial Intelligence & Cloud Intern
 
+
 ### IBM SkillsBuild
 
 
-Worked with:
+<img src="https://img.shields.io/badge/IBM%20SkillsBuild-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+
+### Worked with:
 
 - IBM Cloud
 - Watson Assistant
@@ -187,21 +237,30 @@ Worked with:
 - Cloud Deployment
 
 
-Key Contributions:
+### Key Contributions:
 
 - Developed and deployed an AI Travel Buddy chatbot using IBM Cloud and Watson Assistant.
 - Built RAG pipelines using LangChain and FAISS.
 - Integrated AI solutions with cloud technologies.
 
+---
 
 
----
----
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
 # 🚀 Featured Projects
 
 
+---
+
 ## ♻️ FutureCan — AI Powered Smart Waste Segregation & Management System
+
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/AI%20%7C%20IoT%20%7C%20RAG%20%7C%20Computer%20Vision-success?style=for-the-badge"/>
+
+</div>
 
 
 ### Tech Stack
@@ -221,10 +280,18 @@ Key Contributions:
 - 🧠 Continual active learning pipeline for self-improving AI models
 
 
+
 ---
 
 
 ## 📄 RAG Model — Document Based Question Answering System
+
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/LLM%20%7C%20RAG%20%7C%20NLP-blueviolet?style=for-the-badge"/>
+
+</div>
 
 
 ### Tech Stack
@@ -241,10 +308,18 @@ Key Contributions:
 - 🌐 Developed web interface for document upload and natural language queries
 
 
+
 ---
 
 
 ## 🌐 WorkNest — AI Integrated Worker Platform
+
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/AI%20%7C%20Full%20Stack%20%7C%20Machine%20Learning-orange?style=for-the-badge"/>
+
+</div>
 
 
 ### Tech Stack
@@ -267,44 +342,35 @@ Key Contributions:
 # 🏆 Achievements & Leadership
 
 
-🥇 **Team Lead — SprintHacks 2.0 Hackathon**
-
+🥇 **Team Lead — SprintHacks 2.0 Hackathon**  
 Developed **WorkNest**, an AI-integrated worker platform
 
 
-🏅 **Finalist — OneEarth International Hackathon 2025**
-
+🏅 **Finalist — OneEarth International Hackathon 2025**  
 Team Phoenix
 
 
-🏅 **Finalist — Hacknovate 7.0**
-
+🏅 **Finalist — Hacknovate 7.0**  
 ABES Engineering College, Ghaziabad
 
 
-🥉 **2nd Runner-Up — Hack Heist**
-
+🥉 **2nd Runner-Up — Hack Heist**  
 MIET Meerut
 
 
-🌍 **Contributor — GSSoC 2026**
-
+🌍 **Contributor — GSSoC 2026**  
 Open Source Track & AI / Agents Track
 
 
-👩‍💻 **Member — GDG Club**
-
+👩‍💻 **Member — GDG Club**  
 Machine Learning Domain
 
 
 🤝 **Volunteer — Social Service Club**
 
 
-🎤 **Event Anchor — Pre-AI Summit**
-
+🎤 **Event Anchor — Pre-AI Summit**  
 KIET Deemed to be University
-
-
 
 ---
 
@@ -312,7 +378,9 @@ KIET Deemed to be University
 # 💻 AI Development Journey
 
 
-```
+<div align="center">
+
+<pre>
 Artificial Intelligence
           ↓
 Machine Learning
@@ -330,17 +398,16 @@ Agentic AI
 Cloud Deployment
           ↓
 Production AI Systems
-```
+</pre>
 
+</div>
 
-
----
-
+<!-- ===================== GITHUB ANALYTICS ===================== -->
 
 # 📈 GitHub Analytics
 
 
-<p align="center">
+<div align="center">
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UrviGupta8124&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -349,18 +416,13 @@ Production AI Systems
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UrviGupta8124&theme=tokyonight&hide_border=true"/>
 
 
-</p>
-
-
-
-<p align="center">
+<br/><br/>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrviGupta8124&layout=compact&theme=tokyonight&hide_border=true"/>
 
 
-</p>
-
+</div>
 
 
 ---
@@ -369,14 +431,13 @@ Production AI Systems
 # 📊 Contribution Graph
 
 
-<p align="center">
+<div align="center">
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=UrviGupta8124&theme=tokyo-night"/>
 
 
-</p>
-
+</div>
 
 
 ---
@@ -403,11 +464,12 @@ Production AI Systems
 
 ---
 
+<!-- ===================== CONNECT ===================== -->
 
 # 🌐 Connect With Me
 
 
-<p align="center">
+<div align="center">
 
 
 <a href="https://github.com/UrviGupta8124">
@@ -431,26 +493,22 @@ Production AI Systems
 </a>
 
 
-</p>
-
+</div>
 
 
 ---
 
 
-
-
 # 🐍 Contribution Snake
 
 
-<p align="center">
+<div align="center">
 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 
-</p>
-
+</div>
 
 
 ---
@@ -459,28 +517,31 @@ Production AI Systems
 # 💬 Quote
 
 
-<p align="center">
+<div align="center">
 
 > *"The future belongs to those who create it."* 🚀
 
-</p>
-
+</div>
 
 
 ---
 
 
-<p align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 
-</p>
+<br/>
 
-
-<h3 align="center">
+<h3>
 
 ✨ Thanks for visiting my profile! ✨
+
+<br/>
 
 Building intelligent systems with AI 🚀
 
 </h3>
+
+</div>
+
