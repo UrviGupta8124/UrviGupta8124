@@ -152,7 +152,7 @@ AI Engineer | Java Developer | MERN Stack Developer | LLM & RAG Enthusiast | AWS
 # 💼 Experience
 
 
-## 🤖 AI Intern
+## AI Intern
 
 
 
